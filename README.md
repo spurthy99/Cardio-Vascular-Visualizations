@@ -22,24 +22,3 @@ https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-dis
 
 2. Dashboard Link:
 https://public.tableau.com/app/profile/spurthy.mutturaj2661/viz/HeartDiseaseProject_17064851457340/Dashboard1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://github.com/spurthy99/Cardio-Vascular-Visualizations/assets/157940924/56434e8e-03ea-47c7-a5f9-979413c5fa1d)
